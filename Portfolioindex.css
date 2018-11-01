@@ -222,7 +222,7 @@ hr {
 }
 
 .experiancecontentblock {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Roboto Condensed', sans-serif;
 	background: white;
 	margin-left: 20px;
 	padding: 10px;
@@ -266,7 +266,7 @@ hr {
 
 .educationareabox {
 	background: white;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Roboto Condensed', sans-serif;
 	max-width: 700px;
 	padding: 15px;
 	margin: 50px auto 30px auto;
@@ -293,7 +293,6 @@ hr {
 }
 
 .projectsname {
-	font-family: 'Raleway', sans-serif;
 	color: #688594;
 }
 
@@ -326,6 +325,7 @@ hr {
 }
 
 .Projectsblock {
+	font-family: 'Roboto Condensed', sans-serif;
 	height: 220px;
 	padding-top: 60px;
 }
@@ -342,14 +342,11 @@ h4 {
 }
 
 .Projectsinfo {
-	font-family: 'Raleway', sans-serif;
 	margin-left: 300px;
-
 }
 
 .projectsviewbutton {
 	color: blue;
-	font-family: 'Raleway', sans-serif;
 }
 
 .Hrprojects {
