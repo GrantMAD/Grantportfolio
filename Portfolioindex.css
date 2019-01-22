@@ -311,6 +311,16 @@ hr {
 	max-width: 900px;
 	margin: 0 auto 30px auto;
 	border: 0.5px solid rgba(0, 0, 0, 0.2);
+	border-radius: 10px
+}
+
+.Projectsapparea {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	column-gap: 10px;
+	max-width: 900px;
+	margin: 0 auto 30px auto;
+	border-radius: 10px
 }
 
 .ProjectsImage {
@@ -324,12 +334,26 @@ hr {
 	text-align: center;
 	height: 300px;
 	box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
+	border-radius: 10px;
+}
+
+.Projectsappblock {
+	display: grid;
+	background: white;
+	text-align: center;
+	height: 150px;
+	box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
+	border-radius: 10px;
 }
 
 .Projectsblock {
 	font-family: 'Roboto Condensed', sans-serif;
 	height: 220px;
 	padding-top: 60px;
+}
+
+.AppHr {
+	margin-bottom: 50px;
 }
 
 h3 {
@@ -349,6 +373,18 @@ h4 {
 
 .projectsviewbutton {
 	color: blue;
+}
+
+.Appsheading {
+	text-align: center;
+	color: #d6d6d6;
+	margin-bottom: 10px;
+	font-family: 'Raleway', sans-serif;
+}
+
+.AppsHr {
+	margin-bottom: 50px;
+	width: 200px;
 }
 
 .Hrprojects {
