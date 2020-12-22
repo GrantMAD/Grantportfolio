@@ -507,6 +507,7 @@ textarea {
 	align-self: center;
 	list-style-type: none;
 	width: 48px;
+	padding-left: 60%;
 }
 
 .socialmediatwiter {
@@ -522,5 +523,6 @@ textarea {
 	padding-left: 16px;
 	padding-top: 3px;
 }
+
 
 
