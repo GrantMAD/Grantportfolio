@@ -222,6 +222,10 @@ hr {
 	background: #d6d6d6;
 }
 
+#experianceconnect {
+	height: 112px;
+}
+
 .experiancecontentblock {
 	font-family: 'Roboto Condensed', sans-serif;
 	background: white;
